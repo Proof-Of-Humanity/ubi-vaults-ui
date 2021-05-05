@@ -9,7 +9,7 @@
         .section
           Section(:config="config" :allConfig="allConfig" :chainId="chainId" :chainCoin="chainCoin" :chainExplorer="chainExplorer")
       div(v-else)
-        div Loading Ex<sup>2</sup> 🧪...
+        div Loading Humanitarian Vaults 💧...
 </template>
 
 <script>
